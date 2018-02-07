@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlecrimCoreData (5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlecrimCoreData (~> 5.0)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlecrimCoreData: f1251de3630f4d4d3a212e405298084c229cef29
+
+PODFILE CHECKSUM: a5224a5e7081118ad36720331210d59cc6d23875
+
+COCOAPODS: 1.2.1
